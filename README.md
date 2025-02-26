@@ -4,7 +4,7 @@ I'm a **software developer** based in **Taiwan**, passionate about building proj
 While most of my current content revolves around **LeetCode problem-solving**, I plan to share more **open-source projects** in the future.  
 
 📢 You can find me on **X** [@@hongshengl13954](https://x.com/hongshengl13954)—feel free to reach out anytime!  
-📝 Check out my **blog** and more at [Cyris.io](https://life-hungsheng.vercel.app/).  
+📝 Check out my **blog** and more at [My_Blog](https://life-hungsheng.vercel.app/).  
 
 ### 🚀 What I'm up to:  
 - 🔭 Currently working at **4i Tech**  
